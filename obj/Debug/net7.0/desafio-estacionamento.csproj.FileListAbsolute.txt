@@ -1,0 +1,30 @@
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\bin\Debug\net7.0\desafio-estacionamento.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\bin\Debug\net7.0\desafio-estacionamento.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\bin\Debug\net7.0\desafio-estacionamento.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\bin\Debug\net7.0\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\bin\Debug\net7.0\desafio-estacionamento.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\refint\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\desafio-estacionamento.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-estacionamento\obj\Debug\net7.0\ref\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\bin\Debug\net7.0\desafio-estacionamento.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\bin\Debug\net7.0\desafio-estacionamento.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\bin\Debug\net7.0\desafio-estacionamento.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\bin\Debug\net7.0\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\bin\Debug\net7.0\desafio-estacionamento.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\refint\desafio-estacionamento.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\desafio-estacionamento.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-fundamentos-desafio\obj\Debug\net7.0\ref\desafio-estacionamento.dll
